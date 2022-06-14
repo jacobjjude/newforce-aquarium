@@ -1,0 +1,11 @@
+.mainLayout {
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+    justify-content: space-around;
+}
+
+.mainLayout__stack {
+    display: flex;
+    flex-direction: column;
+}
